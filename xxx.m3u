@@ -1,9 +1,7 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip"
-#EXTINF:-1 tvg-name="Fashion TV Midnite Secrets HD" group-title="18+", Fashion TV Midnite Secrets HD
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-name="Blonde" group-title="18+", Blonde
 #EXTGRP:18+
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="KINO 18+" group-title="18+", KINO 18+
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-name="Anal" group-title="18+", Anal
 #EXTGRP:18+
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 tvg-name="Babestation" group-title="18+", Babestation
-#EXTGRP:18+
+
